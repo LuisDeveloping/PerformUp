@@ -1,0 +1,1 @@
+# Base declarativa del ORM
